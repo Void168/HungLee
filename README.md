@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/be/06/60/be0660cd5435af01c35e05a4c4b4a9c4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Phu Hung</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="Gaming" width="400" scr="https://i.pinimg.com/originals/37/1d/b8/371db84b01a8b6ecc9add7131abba6dd.gif" />
+<img align="right" alt="Gaming" width="400" scr="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=void168&label=Profile%20views&color=0e75b6&style=flat" alt="void168" /> </p>
 
